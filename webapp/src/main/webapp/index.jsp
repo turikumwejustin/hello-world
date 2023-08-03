@@ -1,10 +1,10 @@
 <form action="action_page.php">
-  <div class="container" style="background-color:yellow">
+  <div class="container" style="background-color:green">
     <h1>New user Register for DevOps Learning -Best Course ever !!</h1>
     <p style="color: white;">Please fill in this form to create an account.</p>
     <hr>
     Pushing to docker hub ...Great work 
-    <label for="Name"><b>Enter First Name</b></label>
+    <label for="Name"><b>Enter Last Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
